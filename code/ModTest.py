@@ -17,3 +17,6 @@ class Test1:
 
     def addnew(self):
         pass
+
+    def addnew2(self):
+        pass
